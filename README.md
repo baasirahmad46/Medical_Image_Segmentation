@@ -312,10 +312,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 *Made with ❤️ and a lot of GPU hours 🖥️*
